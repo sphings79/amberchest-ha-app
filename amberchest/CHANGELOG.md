@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.1.2 - 2026-10-14
+
+- Follows AmberChest 2.1.2. See the
+  [release notes](https://github.com/sphings79/amberchest/releases/tag/v2.1.2) for what changed in the application.
+
 ## 2.1.1 - 2026-10-10
 
 - Follows AmberChest 2.1.1. See the
